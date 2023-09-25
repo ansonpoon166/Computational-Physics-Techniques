@@ -1,4 +1,9 @@
-This is an assignment for the Computational Physics at Imperial College London. From scratch, I coded various Computational Physics algorithms, including L-U decomposition (Crout's) for Matrices, Numerical Interpolation (Lagrange Polynomial Interpolation and Cubic Splines), Fourier Transforms and solving Ordinary Differential Equations.
+## Computational Physics Techniques
+
+In this project, I implemented various numerical analysis algorithms from scratch to solve Physics and Mathematical problems, including L-U decomposition (Crout's algorithm) for Matrices, Numerical Interpolation (Lagrange Polynomial Interpolation and Cubic Splines), Fourier Transforms and solving Ordinary Differential Equations.
+
+
+# Descriptions
 
 Computational_Physics_Assignment.pdf is the assignment description.
 
